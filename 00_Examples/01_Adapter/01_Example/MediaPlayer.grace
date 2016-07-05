@@ -1,0 +1,3 @@
+class MediaPlayer {
+    method play {}
+}

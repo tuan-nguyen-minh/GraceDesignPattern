@@ -1,0 +1,253 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"famou",
+				"FamousPerson"
+			],
+			[
+				"Famous",
+				"FamousActor"
+			],
+			[
+				"Media",
+				"MediaPlayer"
+			],
+			[
+				"Radio",
+				"RadioPlayerState"
+			],
+			[
+				"o",
+				"Override"
+			],
+			[
+				"Medi",
+				"MediaPlayer"
+			],
+			[
+				"me",
+				"mediaType"
+			],
+			[
+				"Vi",
+				"VideoMediaPlayer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/Observer.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/MediatorPattern.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/MementoPattern.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/01_CreattionalPatterns/01_Singleton/SingleObject.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/02_StructuralPatterns/AdapterPattern.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/01_CreattionalPatterns/01_Singleton/SingletonPatternDemo.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/ChainofResponsibilityPattern.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/CommandPatternDemo.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/IteratorPattern.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/StatePattern.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/StrategyPattern.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/TemplatePattern.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/VisitorPattern.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/01_CreattionalPatterns/01_Singleton/SingletonPattern.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/02_StructuralPatterns/01_Adapter/02_Implementation/AdapterPattern.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/02_StructuralPatterns/01_Adapter/02_Implementation/VideoMediaPlayer.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/02_StructuralPatterns/01_Adapter/02_Implementation/VideoAdapter.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/02_StructuralPatterns/01_Adapter/02_Implementation/AviPlayer.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/02_StructuralPatterns/01_Adapter/02_Implementation/AdapterPatternDemo.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/02_StructuralPatterns/01_Adapter/02_Implementation/MediaPlayer.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/02_StructuralPatterns/01_Adapter/02_Implementation/Player.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/02_StructuralPatterns/01_Adapter/02_Implementation/MovPlayer.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/01_CreattionalPatterns/Singleton.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/01_CreattionalPatterns/2Singleton",
+		"/Users/if0814/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/01_CreattionalPatterns/Singelton.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/02_CommandPattern/Command.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/02_CommandPattern/CommandPatternDemo.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/list.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/05_MediatorPattern/list.grace",
+		"/Users/if0814/Desktop/list_backup.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/04_IteratorPattern/IteratorPattern.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/05_MediatorPattern/MediatorPattern.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/06_MementoPatter/MementoPattern.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/08_StatePattern/RadioPlayer.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/01_ ChainofResponsibilityPattern/ChainofResponsibilityPattern.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/05_MediatorPattern/untitled.grace",
+		"/Users/if0814/Dropbox/01_Master_Studium/04_Semester_NZ/03_Thesis/02_Implementation/03_BehaviouralPatterns/05_MediatorPattern/list",
+		"/Users/if0814/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/if0814/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"   ",
+			"add",
+			"	",
+			"playavi",
+			"var",
+			"apply"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ChainofResponsibilityPattern.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
